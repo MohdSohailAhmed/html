@@ -1,0 +1,26 @@
+p{
+	font-family: 'Dancing Script', cursive;
+}
+h2{
+	color: solid black;
+}
+
+body{
+	border: 20px solid darkgrey;
+	padding: 20px;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+}
+
+ .quote{
+	border-left: 5px solid darkgrey;
+	padding-left: 5px;
+
+}
+.date{
+	text-transform: uppercase;
+	color: blue;
+	letter-spacing: 0.2rem;
+
+}
